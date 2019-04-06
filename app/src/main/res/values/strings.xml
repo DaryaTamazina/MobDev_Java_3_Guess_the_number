@@ -4,6 +4,7 @@
     <string name="ahead">Перелет!</string>
     <string name="hit">В точку!</string>
     <string name="input_value">Ввести значение</string>
+    <string name="input_value2">Выход</string>
     <string name="play_more">Сыграть еще</string>
     <string name="try_to_guess">Попробуйте угадать число (1 – 100)</string>
     <string name="error">Неверный ввод!</string>
